@@ -2,8 +2,8 @@
 
 title: 'Fearless Knight'
 author: Karina
-categories: [Fearless Knight, Godot Engine, Bootcamp Santander 2024, DIO, Desenvolvimento de Jogos, Game Development, Jogos 2D, GUI, UX/UI, Vampire Survivor Inspired, Animated Sprites, Inteligência Artificial em Jogos, AI Enemies, Mob Spawn e Drops, Recuperação de Vida, Coleta de Itens, Dano de Ataque, Barra de Progresso de Vida, Câmera Top-Down, Animação de Morte, Parallax]
-tags: [fearless knight, godot engine, bootcamp santander 2024, dio, desenvolvimento de jogos, game development, jogos 2d, gui, ux/ui, vampire survivor inspired, animated sprites, inteligência artificial em jogos, AI enemies, mob spawn e drops, recuperação de vida, coleta de itens, dano de ataque, barra de progresso de vida, health progression bar, câmera top-down, animação de morte, death animation, parallax]
+categories: [Fearless Knight, Godot Engine, Bootcamp Santander 2024, DIO, Game Development, 2D Games, GUI Design, UX/UI Design, Vampire Survivors Inspired, Animated Sprites, AI in Games, Enemy AI, Mob Spawn & Drops, Health Recovery, Item Collection, Attack Damage, Health Progression Bar, Top-Down Camera, Death Animation, Parallax Effect]
+tags: [fearless knight, godot engine, bootcamp santander 2024, dio, game development, 2d games, gui design, ux/ui design, vampire survivors inspired, animated sprites, ai in games, enemy ai, mob spawn & drops, health recovery, item collection, attack damage, health progression bar, top-down camera, death animation, parallax effect]
 render_with_liquid: false
 image:
   path: /assets/img/projects/fearless-knight.gif
@@ -13,26 +13,25 @@ image:
 # Fearless Knight
 
 <p style="text-align: justify;">
-Este jogo, criado utilizando o Godot Engine e programado em GDscript, é inspirado no popular "Vampire Survivor". 
+This game, developed using the Godot Engine and programmed in GDscript, is inspired by the popular "Vampire Survivors." It combines dynamic and exciting mechanics, offering an engaging experience for fans of action and survival games.
 </p>
 
 <p style="text-align: justify;">
-Ele apresenta uma variedade de mecânicas dinâmicas e emocionantes, incluindo Animated Sprites (Sprites Animados), Inimigos com IA (Inteligência Artificial de Inimigos), Mob Spawn e Drops, Recuperação de Vida, Coleta de Itens com Diferentes Raridades, Dano de Ataque, Barra de Progressão de Vida, Câmera Top-Down (Visão Superior), e Animação de Morte.
+Featuring a variety of gameplay elements such as Animated Sprites, Enemy AI (Artificial Intelligence), Mob Spawns, Item Drops, Health Recovery, Collectible Items with Various Rarities, Attack Damage, Health Progression Bar, Top-Down Camera View, and Death Animation, this game stands out as an immersive and strategic challenge.
 </p>
 
 <p style="text-align: justify;">
-A jogabilidade foi projetada para proporcionar uma experiência imersiva e estratégica, onde os jogadores devem gerenciar recursos, derrotar inimigos com inteligência artificial e coletar itens raros enquanto avançam no jogo.
+The gameplay is designed to offer players a captivating, action-packed experience where they must manage resources, defeat AI-controlled enemies, and collect rare items to progress further in the game. With each wave of enemies, the difficulty increases, keeping players on their toes.
 </p>
 
 <p style="text-align: justify;">
-Este projeto é uma ótima demonstração do poder do Godot Engine e da flexibilidade do GDscript para criar jogos 2D com mecânicas complexas e interativas.
+This project showcases the full potential of the Godot Engine and the versatility of GDscript in creating 2D games with complex and interactive mechanics, making it a great example for both beginner and advanced developers looking to explore Godot’s capabilities.
 </p>
 
-# Você pode jogar Fearless Knight
+<h2>You Can Play Fearless Knight Now!</h2>
 
 [https://nookaa.itch.io/fearless-knight](https://nookaa.itch.io/fearless-knight)
 
-# Repositório do Projeto
+<h3>Check Out the Project Repository</h3>
 
 [https://github.com/KarinaGante/BootcampSantander](https://github.com/KarinaGante/BootcampSantander)
-
