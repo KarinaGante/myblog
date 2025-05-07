@@ -5,9 +5,8 @@ author: Karina
 categories: [Power BI, Excel, Dashboard de Vendas, Análise de Vendas, Business Intelligence, BI, Data Analytics, Relatórios Interativos, Visualização de Dados, Data Analysis, Inteligência de Negócios, Python, Carros Vendidos, Vendas por Região, Car Sales Report]
 tags: [power bi, excel, dashboard de vendas, análise de vendas, business intelligence, data analytics, relatório interativo, visualização de dados, inteligência de negócios, vendas por região, car sales, car dashboard, data report, análise de dados, python]
 render_with_liquid: false
-media_subpath: https://karinagante.github.io/img/car%20dashboard.png
 image:
-  path: https://karinagante.github.io/img/car%20dashboard.png
+  path: /assets/img/projects/car-dashboard.png
 
 ---
 

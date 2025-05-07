@@ -5,9 +5,9 @@ author: Karina
 categories: [Vendas Mensais, Monthly Sales, Relatório de Vendas, Sales Report, Análise de Dados, Data Analysis, Power BI, Business Intelligence, Excel, Python, Data Visualization, BI, Excel Reporting, Sazonalidade de Vendas, Sales Trends, Inteligência de Negócios]
 tags: [vendas mensais, monthly sales, relatório de vendas, sales report, análise de dados, data analysis, power bi, business intelligence, excel, python, data visualization, bi, excel reporting, sazonalidade de vendas, sales trends, inteligência de negócios]
 render_with_liquid: false
-media_subpath: https://karinagante.github.io/img/vendas-mensais.png
 image:
-  path: https://karinagante.github.io/img/vendas-mensais.png
+  path: /assets/img/projects/vendas-mensais.png
+  
 ---
 
 # Vendas Mensais

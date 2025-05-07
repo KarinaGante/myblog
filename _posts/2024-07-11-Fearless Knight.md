@@ -5,9 +5,9 @@ author: Karina
 categories: [Fearless Knight, Godot Engine, Bootcamp Santander 2024, DIO, Desenvolvimento de Jogos, Game Development, Jogos 2D, GUI, UX/UI, Vampire Survivor Inspired, Animated Sprites, Inteligência Artificial em Jogos, AI Enemies, Mob Spawn e Drops, Recuperação de Vida, Coleta de Itens, Dano de Ataque, Barra de Progresso de Vida, Câmera Top-Down, Animação de Morte, Parallax]
 tags: [fearless knight, godot engine, bootcamp santander 2024, dio, desenvolvimento de jogos, game development, jogos 2d, gui, ux/ui, vampire survivor inspired, animated sprites, inteligência artificial em jogos, AI enemies, mob spawn e drops, recuperação de vida, coleta de itens, dano de ataque, barra de progresso de vida, health progression bar, câmera top-down, animação de morte, death animation, parallax]
 render_with_liquid: false
-media_subpath: https://karinagante.github.io/img/fearless-knight.gif
 image:
-  path: https://karinagante.github.io/img/fearless-knight.gif
+  path: /assets/img/projects/fearless-knight.gif
+  
 ---
 
 # Fearless Knight
